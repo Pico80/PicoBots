@@ -8,3 +8,4 @@ PicoBots te facilita la creacion de comandos de slash (`/`) y mas.
 · [**Comandos**](https://pico8.minecraftr.us/PicoBots/help)
 <br>
 · [**Inicio**](https://pico8.minecraftr.us/PicoBots/)
+
